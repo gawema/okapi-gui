@@ -1,0 +1,48 @@
+
+
+.login-container {
+	margin: 5% auto;
+    padding: 5vw;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.switch-form {
+    margin: 5% auto -5%;
+    width: calc(400px + 15vw);
+	text-align: end;
+	padding-bottom: 5px;
+	font-weight: 400;
+}
+
+.login-container > input {
+	min-width:400px;
+    margin: 20px;
+    height: 50px;
+	padding-left: 10px;
+	
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+
+.login-container > a {
+    width: 70%;
+    text-align: right;
+	margin-top: -15px;
+	font-size: 0.9rem;
+	font-weight: 300;
+}
+
+/* TODO */
+/* match to design */
+/* button::hover */
+/* box-shadow */
+/* animations */
+/* responsive design */
+
+
